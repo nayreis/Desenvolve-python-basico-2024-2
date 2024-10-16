@@ -1,1 +1,5 @@
-# Desenvolve-python-basico-2024-2
+Projeto Desenvolve - Itabira
+
+Programação básica com Python
+
+PDITA203
